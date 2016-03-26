@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 84e1b2dc6d1fe2242b4c8af722f79185
+timeCreated: 1458975502
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: s_d_chick1_strip4_0
+    21300002: s_d_chick1_strip4_1
+    21300004: s_d_chick1_strip4_2
+    21300006: s_d_chick1_strip4_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: s_d_chick1_strip4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.002516908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 59.720623}
+        - {x: 54, y: 110.72063}
+        - {x: -49, y: 110.72063}
+        - {x: -60, y: 82.72063}
+        - {x: -60, y: 15.720623}
+        - {x: -46, y: 2.720623}
+        - {x: -26, y: -0.27937698}
+        - {x: 47, y: -0.27937698}
+        - {x: 60, y: 12.720623}
+        - {x: 60, y: 50.720623}
+    - name: s_d_chick1_strip4_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 111
+      alignment: 9
+      pivot: {x: 0.49417508, y: 0.008814163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.30101, y: 110.02163}
+        - {x: -54.30101, y: 106.02163}
+        - {x: -59.30101, y: 74.02163}
+        - {x: -59.30101, y: 33.02163}
+        - {x: -45.30101, y: 4.0216293}
+        - {x: -22.30101, y: -0.97837067}
+        - {x: 45.69899, y: -0.97837067}
+        - {x: 60.69899, y: 18.02163}
+        - {x: 60.69899, y: 73.02163}
+        - {x: 55.69899, y: 110.02163}
+    - name: s_d_chick1_strip4_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 111
+      alignment: 9
+      pivot: {x: 0.50582504, y: 0.008814163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.699005, y: 110.02163}
+        - {x: -60.699005, y: 92.02163}
+        - {x: -60.699005, y: 7.0216293}
+        - {x: -30.699005, y: -0.97837067}
+        - {x: 49.300995, y: -0.97837067}
+        - {x: 59.300995, y: 12.021629}
+        - {x: 59.300995, y: 110.02163}
+    - name: s_d_chick1_strip4_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 120
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5116501, y: 0.015111417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.39801, y: 109.32263}
+        - {x: -56.39801, y: 105.32263}
+        - {x: -61.39801, y: 73.32263}
+        - {x: -61.39801, y: 32.32263}
+        - {x: -47.39801, y: 3.3226318}
+        - {x: -24.39801, y: -1.6773682}
+        - {x: 43.60199, y: -1.6773682}
+        - {x: 58.60199, y: 17.322632}
+        - {x: 58.60199, y: 72.32263}
+        - {x: 53.60199, y: 109.32263}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: dc86f3a8b77d0564a8bfe7ac20410025
+timeCreated: 1458966666
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: s_egg1_strip6_0
+    21300002: s_egg1_strip6_1
+    21300004: s_egg1_strip6_2
+    21300006: s_egg1_strip6_3
+    21300008: s_egg1_strip6_4
+    21300010: s_egg1_strip6_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: s_egg1_strip6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 132
+        height: 150
+      alignment: 9
+      pivot: {x: 0.50000006, y: -0.0067713754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.999992, y: 151.01572}
+        - {x: -53.000008, y: 151.01572}
+        - {x: -66.00001, y: 107.01571}
+        - {x: -66.00001, y: 24.015709}
+        - {x: -62.000008, y: 14.015709}
+        - {x: -28.000008, y: 1.0157089}
+        - {x: 36.999992, y: 1.0157089}
+        - {x: 60.999992, y: 22.015709}
+        - {x: 65.99999, y: 36.01571}
+        - {x: 65.99999, y: 119.01571}
+    - name: s_egg1_strip6_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 132
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.036915824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 144.46262}
+        - {x: -53, y: 144.46262}
+        - {x: -66, y: 100.46262}
+        - {x: -66, y: 17.462624}
+        - {x: -62, y: 7.4626236}
+        - {x: -28, y: -5.5373764}
+        - {x: 37, y: -5.5373764}
+        - {x: 61, y: 15.462624}
+        - {x: 66, y: 29.462624}
+        - {x: 66, y: 112.46262}
+    - name: s_egg1_strip6_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 132
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.019440945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 147.08386}
+        - {x: -53, y: 147.08386}
+        - {x: -66, y: 103.083855}
+        - {x: -66, y: 20.083855}
+        - {x: -62, y: 10.083855}
+        - {x: -28, y: -2.9161453}
+        - {x: 37, y: -2.9161453}
+        - {x: 61, y: 18.083855}
+        - {x: 66, y: 32.083855}
+        - {x: 66, y: 115.083855}
+    - name: s_egg1_strip6_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 132
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.041721135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 156.25818}
+        - {x: -53, y: 156.25818}
+        - {x: -66, y: 112.25817}
+        - {x: -66, y: 29.258171}
+        - {x: -62, y: 19.258171}
+        - {x: -28, y: 6.258171}
+        - {x: 37, y: 6.258171}
+        - {x: 61, y: 27.258171}
+        - {x: 66, y: 41.25817}
+        - {x: 66, y: 124.25817}
+    - name: s_egg1_strip6_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 132
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.010703505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 148.39447}
+        - {x: -53, y: 148.39447}
+        - {x: -66, y: 104.39448}
+        - {x: -66, y: 21.394478}
+        - {x: -62, y: 11.394478}
+        - {x: -28, y: -1.6055222}
+        - {x: 37, y: -1.6055222}
+        - {x: 61, y: 19.394478}
+        - {x: 66, y: 33.394478}
+        - {x: 66, y: 116.39448}
+    - name: s_egg1_strip6_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 132
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: -0.012849649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 116.47771}
+        - {x: -66, y: 103.47771}
+        - {x: -66, y: 20.47771}
+        - {x: -41, y: 1.4777107}
+        - {x: 63, y: 1.4777107}
+        - {x: 66, y: 7.4777107}
+        - {x: 66, y: 110.47771}
+        - {x: 38, y: 116.47771}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
